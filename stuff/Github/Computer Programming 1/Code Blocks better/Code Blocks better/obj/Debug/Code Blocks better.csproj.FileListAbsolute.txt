@@ -1,0 +1,2 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Code Blocks better\Code Blocks better\obj\Debug\Code Blocks better.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Code Blocks better\Code Blocks better\obj\Debug\Code Blocks better.csproj.CoreCompileInputs.cache

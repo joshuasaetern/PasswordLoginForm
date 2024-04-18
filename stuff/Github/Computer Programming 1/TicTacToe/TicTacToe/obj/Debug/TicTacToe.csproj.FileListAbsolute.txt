@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

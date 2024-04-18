@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParseNotes", "TryParseNotes\TryParseNotes.csproj", "{349C51DA-921B-48A6-91F5-C6E0A715BD69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349C51DA-921B-48A6-91F5-C6E0A715BD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349C51DA-921B-48A6-91F5-C6E0A715BD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349C51DA-921B-48A6-91F5-C6E0A715BD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349C51DA-921B-48A6-91F5-C6E0A715BD69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97DD1793-8E5F-4C8F-AC63-FBB1DC3490E8}
+	EndGlobalSection
+EndGlobal

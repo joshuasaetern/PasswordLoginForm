@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h2>Adding new elements to an array</h2>
+
+    <p>
+        Three methods: push, unshift, splice
+        push() adds a new element to the array at the end 
+        unshift() adds a new element to the array at the beginning
+        splice() can add new elements and remove old elements at given index
+
+        pop() method removes element at the end
+        shift() method removes element at the front
+    </p>
+
+    <label for="txtValue">Enter New Value</label>
+    <input type="text" id="txtValue" size="5">
+    <br>
+    <button onclick="btnPush();">push()</button>
+    <button onclick="btnUnshift();">unshift()</button>
+    <button onclick="btnSplice();">splice()</button>
+    <br>
+    <button onclick="btnPop();">pop()</button>
+    <button onclick="btnShift();">shift()</button>
+    <br>
+    <button onclick="btnDisplayCountries();">Display Countries</button>
+    <button onclick="btnDisplayNumbers();">Display Numbers</button>
+    <button onclick="btnTest();">testSplice</button>
+    
+    
+
+    <div style="width: 50%; border-width: 2px; border-style: solid;">
+        <p id="displayArea">
+
+        </p>
+    </div>
+
+    <script>
+
+        const display = document.getElementById("displayArea");
+        const userInput = document.getElementById("txtValue");
+
+        const countries = ['USA', 'Canada', 'Mexico'];
+        const numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+        let startIndex = 3; 
+        let howMany = 3;
+
+        //numbers.splice(startIndex, howMany);
+
+        function btnTest() {
+            numbers.splice(startIndex, howMany);
+        }
+        function btnPush() {
+            let country = userInput.value;
+            countries.push(country);
+        }
+        function btnUnshift() {
+            let country = userInput.value;
+            countries.unshift(country);
+        }
+        function btnSplice() {
+            let country = userInput.value;
+
+        }
+        function btnPop() {
+            let country = userInput.value;
+            countries.pop();
+        }
+        function btnShift() {
+            let country = userInput.value;
+            countries.shift();
+        }
+        function btnDisplayCountries() {
+            displayArray(countries);
+        }
+        function btnDisplayNumbers() {
+            displayArray(numbers);
+        }
+        function displayArray(array) {
+            //Everytime this method is called line 56 clears the display
+            displayArea.innerHTML = "";
+            for (let i in array) {
+                displayArea.innerHTML += `${i}: ${array[i]} <br>`;
+            }
+        }
+
+    </script>
+
+</body>
+</html>

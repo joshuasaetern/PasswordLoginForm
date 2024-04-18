@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryParseNotes\TryParseNotes\bin\Debug\TryParseNotes.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryParseNotes\TryParseNotes\bin\Debug\TryParseNotes.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryParseNotes\TryParseNotes\bin\Debug\TryParseNotes.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryParseNotes\TryParseNotes\obj\Debug\TryParseNotes.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryParseNotes\TryParseNotes\obj\Debug\TryParseNotes.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryParseNotes\TryParseNotes\obj\Debug\TryParseNotes.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryParseNotes\TryParseNotes\obj\Debug\TryParseNotes.pdb

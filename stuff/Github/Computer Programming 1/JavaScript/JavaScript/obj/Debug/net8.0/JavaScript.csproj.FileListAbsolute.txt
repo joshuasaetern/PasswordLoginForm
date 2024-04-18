@@ -1,0 +1,14 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\bin\Debug\net8.0\JavaScript.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\bin\Debug\net8.0\JavaScript.deps.json
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\bin\Debug\net8.0\JavaScript.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\bin\Debug\net8.0\JavaScript.dll
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\bin\Debug\net8.0\JavaScript.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\obj\Debug\net8.0\JavaScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\obj\Debug\net8.0\JavaScript.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\obj\Debug\net8.0\JavaScript.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\obj\Debug\net8.0\JavaScript.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\obj\Debug\net8.0\JavaScript.dll
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\obj\Debug\net8.0\refint\JavaScript.dll
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\obj\Debug\net8.0\JavaScript.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\obj\Debug\net8.0\JavaScript.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\JavaScript\JavaScript\obj\Debug\net8.0\ref\JavaScript.dll

@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToObjects\IntroToObjects\bin\Debug\IntroToObjects.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToObjects\IntroToObjects\bin\Debug\IntroToObjects.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToObjects\IntroToObjects\bin\Debug\IntroToObjects.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToObjects\IntroToObjects\obj\Debug\IntroToObjects.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToObjects\IntroToObjects\obj\Debug\IntroToObjects.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToObjects\IntroToObjects\obj\Debug\IntroToObjects.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToObjects\IntroToObjects\obj\Debug\IntroToObjects.pdb

@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabFour\LabFour\bin\Debug\LabFour.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabFour\LabFour\bin\Debug\LabFour.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabFour\LabFour\bin\Debug\LabFour.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabFour\LabFour\obj\Debug\LabFour.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabFour\LabFour\obj\Debug\LabFour.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabFour\LabFour\obj\Debug\LabFour.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabFour\LabFour\obj\Debug\LabFour.pdb

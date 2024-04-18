@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ReadLine\ReadLine\bin\Debug\ReadLine.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ReadLine\ReadLine\bin\Debug\ReadLine.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ReadLine\ReadLine\bin\Debug\ReadLine.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ReadLine\ReadLine\obj\Debug\ReadLine.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ReadLine\ReadLine\obj\Debug\ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ReadLine\ReadLine\obj\Debug\ReadLine.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ReadLine\ReadLine\obj\Debug\ReadLine.pdb

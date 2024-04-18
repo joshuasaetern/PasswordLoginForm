@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h2>Arrays: create and display </h2>
+
+    <br>
+
+    <div style="width: 50%; border-width: 2px; border-style: solid;">
+        <p id="displayArea">
+
+        </p>
+    </div>
+
+    <script>
+
+        const display = document.getElementById("displayArea");
+
+        const array1 = []; //Empty array
+        const array2 = [55, 60, 33, 45, 9, 19, 33, 2, 70, 8, 47, 40];
+
+        //For Loop
+        display.innerHTML = "Content of array2: <br>";
+        for(let i = 0; i < array2.length; i++) {
+            display.innerHTML += `${i}: ${array2[i]}, `;
+        }
+        display.innerHTML += "<br>";
+
+        //For In
+        display.innerHTML += "<br>Content of array2: <br>";
+        for(let i in array2) {
+            display.innerHTML += `${i}: ${array2[i]}, `;
+        }
+        display.innerHTML += "<br>";
+
+        //For Of
+        display.innerHTML += "<br>Content of array2: <br>";
+        for (let number of array2) {
+            display.innerHTML += `${number}, `;
+        }
+        display.innerHTML += "<br>";
+
+        //Initizalzie array1 with 12 random values
+        for(let i = 0; i < 12; i++) {
+            let value = Math.floor(Math.random()*91) + 10;
+            array1[i] = value;
+        }
+
+        //Print Array 1
+        display.innerHTML += "<br>Content of array1: <br>";
+        for(let i = 0; i < array1.length; i++) {
+            display.innerHTML += `${i}: ${array1[i]}, `;
+        }
+        display.innerHTML += "<br>";
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb

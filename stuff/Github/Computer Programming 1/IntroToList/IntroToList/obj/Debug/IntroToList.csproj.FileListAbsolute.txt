@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToList\IntroToList\bin\Debug\IntroToList.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToList\IntroToList\bin\Debug\IntroToList.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToList\IntroToList\bin\Debug\IntroToList.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToList\IntroToList\obj\Debug\IntroToList.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToList\IntroToList\obj\Debug\IntroToList.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToList\IntroToList\obj\Debug\IntroToList.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToList\IntroToList\obj\Debug\IntroToList.pdb

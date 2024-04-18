@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Math Functions</h2>
+    <!--Display area-->
+    <div style="width: 50%;border-width: 2px; border-style: solid;">
+        <p id="displayArea">
+
+        </p>
+    </div>
+
+    <label for="">Enter a numeric value</label>
+    <input type="number" id="txtNum1" size="5">
+    <br> <button onclick="btn_click();">compute square root</button>
+
+
+    <script>
+        //get a reference to the input tag with id:'txtNum1' 
+       const input1 = document.getElementById('txtNum1');
+       //get a reference to the display area
+       const display = document.getElementById("displayArea");
+
+        //function that will be called when the button is clicked
+        function btn_click(){
+             //get user input
+           let v1 = input1.value;
+           //call the squareroot function and pass it v1
+           let result = squareroot(v1);
+           //dispaly result
+           display.innerHTML += `v1 = ${v1}   result = ${result} <br>`; 
+        }
+       
+      
+
+       function squareroot(x){
+        let result = Math.sqrt(x);
+        return result;
+       }
+    </script>
+</body>
+</html>

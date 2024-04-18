@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabNine\LabNine\bin\Debug\LabNine.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabNine\LabNine\bin\Debug\LabNine.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabNine\LabNine\bin\Debug\LabNine.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabNine\LabNine\obj\Debug\LabNine.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabNine\LabNine\obj\Debug\LabNine.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabNine\LabNine\obj\Debug\LabNine.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\LabNine\LabNine\obj\Debug\LabNine.pdb

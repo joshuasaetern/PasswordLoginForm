@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab_Seven\Lab_Seven\bin\Debug\Lab_Seven.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab_Seven\Lab_Seven\bin\Debug\Lab_Seven.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab_Seven\Lab_Seven\bin\Debug\Lab_Seven.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab_Seven\Lab_Seven\obj\Debug\Lab_Seven.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab_Seven\Lab_Seven\obj\Debug\Lab_Seven.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab_Seven\Lab_Seven\obj\Debug\Lab_Seven.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab_Seven\Lab_Seven\obj\Debug\Lab_Seven.pdb

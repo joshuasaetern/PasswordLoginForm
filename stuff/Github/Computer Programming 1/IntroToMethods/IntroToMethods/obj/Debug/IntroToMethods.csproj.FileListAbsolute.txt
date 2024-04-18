@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToMethods\IntroToMethods\bin\Debug\IntroToMethods.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToMethods\IntroToMethods\bin\Debug\IntroToMethods.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToMethods\IntroToMethods\bin\Debug\IntroToMethods.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToMethods\IntroToMethods\obj\Debug\IntroToMethods.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToMethods\IntroToMethods\obj\Debug\IntroToMethods.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToMethods\IntroToMethods\obj\Debug\IntroToMethods.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\IntroToMethods\IntroToMethods\obj\Debug\IntroToMethods.pdb

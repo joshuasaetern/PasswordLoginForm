@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ConvertTO\ConvertTO\bin\Debug\ConvertTO.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ConvertTO\ConvertTO\bin\Debug\ConvertTO.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ConvertTO\ConvertTO\bin\Debug\ConvertTO.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ConvertTO\ConvertTO\obj\Debug\ConvertTO.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ConvertTO\ConvertTO\obj\Debug\ConvertTO.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ConvertTO\ConvertTO\obj\Debug\ConvertTO.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\ConvertTO\ConvertTO\obj\Debug\ConvertTO.pdb

@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\Lab3\Lab3\obj\Debug\Lab3.pdb

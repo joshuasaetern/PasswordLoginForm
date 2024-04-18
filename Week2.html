@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Week 2</h2>
+    <div style="width: 50%; border-width: 2px; border-style: solid;">
+        <p id="displayArea">
+
+        </p>
+    </div>
+    <button onclick="btnOnClick();">Generate a random value from 0-1</button>
+    <br>
+    <button onclick="btnOnClick2();">Generate a list of random values from 0-1</button>
+
+    <script>
+        const display = document.getElementById("displayArea");
+
+        function btnOnClick() {
+            let value = getRandomValue();
+            display.innerHTML += `${value} <br>`; 
+        }
+
+        function btnOnClick2() {
+            display.innerHTML += '------------------------------ <br>';
+            for (let i = 1; i <= 10; i++) {
+                let value = getRandomValue();
+                display.innerHTML += `${value} <br>`;
+            }
+            display.innerHTML += '------------------------------ <br>';
+        }
+
+        function getRandomValue() {
+            let value = Math.random();
+            return value;
+        }
+    </script>
+</body>
+</html>

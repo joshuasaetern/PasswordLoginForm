@@ -1,0 +1,7 @@
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\joshu\OneDrive\Desktop\Github\Computer Programming 1\TryCatch\TryCatch\obj\Debug\TryCatch.pdb
