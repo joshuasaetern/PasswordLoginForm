@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PasswordLoginForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a3f020a53438853d178f22e97c7a72636ffd708")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bdc7aa700add9d851d9ceb74d5af63646799da0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PasswordLoginForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PasswordLoginForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
