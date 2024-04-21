@@ -56,6 +56,14 @@ namespace PasswordLoginForm
         }
         public String createAccount(String username, String password)
         {
+            //Checks if username or password is blank
+            if (String.IsNullOrEmpty(username)) {
+                return "Cannot leave username empty";
+            }
+            if (String.IsNullOrEmpty(password))
+            {
+                return "Cannot leave password empty";
+            }
             //Runs if username isnt taken
             if (checkIfAvailable(username))
             {
@@ -79,6 +87,15 @@ namespace PasswordLoginForm
         }
         public String checkUsernameAndPassword(String username, String password)
         {
+            //Checks if username or password is blank
+            if (String.IsNullOrEmpty(username))
+            {
+                return "Cannot leave username empty";
+            }
+            if (String.IsNullOrEmpty(password))
+            {
+                return "Cannot leave password empty";
+            }
             bool usernameExists = false;
             //Checks if username exists in array
             for(int i = 0; i < usernames.Count; i++)
